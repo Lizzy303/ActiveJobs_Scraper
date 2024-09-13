@@ -1,4 +1,4 @@
-![ai](ai.jp
+![ai](ai.jpg)
 
 # ActiveJobs_Scraper
 
