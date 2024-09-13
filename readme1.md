@@ -1,6 +1,6 @@
 ![image](ai.jpg)
 
-# ActiveJobs_Scraper
+# Active Jobs Scraper
 
 # Overview
 The Job Search API Data Processor is a Python script designed to fetch job listings related to "cyber security" from an API, process the data, and save it in a CSV format. It uses the requests library to interact with the API and pandas for data manipulation and export. This tool helps users to efficiently collect and structure job data for analysis or reporting.
