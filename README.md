@@ -2,7 +2,7 @@
 
 # Active Jobs Scraper
 
-#  Project Description
+#  Overview
 This Python script allows you to search for job listings related to "cyber security" within the United States using the Active Jobs API. The script retrieves job data from the API, processes it to exclude unnecessary fields, and saves the filtered information into a CSV file. This can be particularly useful for job seekers, data analysts, or anyone interested in aggregating job data for further analysis.
 
 # Installation
