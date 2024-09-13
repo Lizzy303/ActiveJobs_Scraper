@@ -10,15 +10,6 @@ To run this script, you'll need Python and the following libraries:
 
 requests: For making HTTP requests to the API.
 pandas: For data manipulation and exporting to CSV.
-Step-by-Step Installation
-Clone or Download the Repository
-
-# Clone the repository using Git:
-
-bash
-Copy code
-git clone <repository-url>
-Or download the script file directly.
 
 # Install Required Libraries
 
@@ -47,18 +38,7 @@ Check the Output
 
 After running the script, check the current directory for the jobs_data.csv file, which contains the filtered job data.
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-# Contributing
-Contributions are welcome! If you have suggestions for improvements or encounter any issues, please follow these steps:
-
-# Fork the repository
-Create a new branch for your changes.
-Commit your changes with clear messages.
-Push your changes to your fork.
-Open a Pull Request describing your changes.
-Credits
+# Credits
 API Source: Active Jobs API via RapidAPI
 Libraries Used:
 requests (https://pypi.org/project/requests/)
