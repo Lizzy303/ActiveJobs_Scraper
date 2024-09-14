@@ -9,11 +9,11 @@ This Python script allows you to search for job listings related to "cyber secur
 The project utilizes the Acdtive Jobs-db api from rapidapi.com. Other tools that are use to complete the project are Visual Studio Code or Googl Colab, the requests and pandas libraries from Python.
 
 # Requirements
-Python 3.8+
-Visual Studio Code / Google Colab
-Request
-Pandas
-Works on Linux, Windows, macOS
+* Python 3.8+
+*[Visual Studio Code](https://code.visualstudio.com/download) / Google Colab
+*Request
+*Pandas
+*Works on Linux, Windows, macOS
 
 ## Links
 <!-- links -->
