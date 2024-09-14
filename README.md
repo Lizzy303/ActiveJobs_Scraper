@@ -11,7 +11,7 @@ The project utilizes the Acdtive Jobs-db api from [rapidapi.com](https://rapidap
 # Requirements
 * [Python 3.8+](https://www.python.org/downloads/)
 * [Visual Studio Code](https://code.visualstudio.com/download) / [Google Colab](https://colab.research.google.com/)
-* Request
+* Requests
 * Pandas
 * Works on Linux, Windows, macOS
 
