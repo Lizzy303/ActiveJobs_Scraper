@@ -81,8 +81,8 @@ python job_search_to_csv.py
 After running the script, check the current directory for the jobs_data.csv file, which contains the filtered job data.
 
 # Credits
-API Source: Active Jobs API via RapidAPI
-Libraries Used:
-requests (https://pypi.org/project/requests/)
-pandas (https://pandas.pydata.org/)
-Text Editor: (https://code.visualstudio.com/download) / (https://colab.research.google.com/)
+* API Source: Active Jobs API via RapidAPI
+* Libraries Used:
+* requests (https://pypi.org/project/requests/)
+* pandas (https://pandas.pydata.org/)
+* Text Editor: (https://code.visualstudio.com/download) / (https://colab.research.google.com/)
