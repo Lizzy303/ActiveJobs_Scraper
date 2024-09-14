@@ -28,8 +28,8 @@ After installing these libraries import them into your script.
 import requests
 import pandas as pd
 ```
-requests: For making HTTP requests to the API.
-pandas: For data manipulation and exporting to CSV.
+* requests: For making HTTP requests to the API.
+* pandas: For data manipulation and exporting to CSV.
 
 Sign up on RapidAPI and subscribe to the Active Jobs DB API to get your API key. Replace the placeholder key in the script with your actual key.
 
