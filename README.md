@@ -42,7 +42,7 @@ url = "https://active-jobs-db.p.rapidapi.com/active-ats"
 querystring = {"title":"\"Data Engineer\"","location":"\"United States\""}
 
 headers = {
-	"x-rapidapi-key": "e538ff38fdmshd466fa5f6d3ef96p180282jsn8cfa9a012cb1",
+	"x-rapidapi-key": "YOUR API KEY",
 	"x-rapidapi-host": "active-jobs-db.p.rapidapi.com"
 }
 
